@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src="D:\Bilder\random\51bed5be-4c1e-4052-bdad-dcc33143c743.jpeg"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Pascal from Germany<br><br>- 🔭 I educated as a game/web-developer at the SRH-Fachschule in Heidelberg<br>- 📚 I'm currently learning C#, HTML5 and CSS3<br>- ⚡ In my free time I like to play video games</p>
+<p align="left">I'm Pascal from Germany<br><br>- 🔭 I educated as a game/web-developer at the SRH-Fachschule in Heidelberg<br>- 🔗 look at my work https://www.pascalziegler.de<br>- 📚 I'm currently learning C#, HTML5 and CSS3<br>- ⚡ In my free time I like to play video games</p>
 
 ###
 
@@ -60,9 +60,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
