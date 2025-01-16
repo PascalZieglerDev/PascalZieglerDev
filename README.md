@@ -14,7 +14,7 @@
 ###
 
 <h1 align="center">hey there 👋 I'm pascal</h1>
-**Digital Craftsman (Developer)**
+<h1 align="center">**Digital Craftsman (Developer)**</h1>
 
 ###
 
