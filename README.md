@@ -17,10 +17,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-<h3 align="center">**Digital Craftsman (Developer)**</h3>
-###
 
+<h3 align="center">**Digital Craftsman (Developer)**</h3>
+
+<h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm Pascal from Germany<br><br>- 🔭 I educated as a game/web-developer at the SRH-Fachschule in Heidelberg<br>- 🔗 look at my work https://www.pascalziegler.de<br>- 📚 I'm currently learning C#, HTML5 and CSS3<br>- ⚡ In my free time I like to play video games</p>
 
 ###
